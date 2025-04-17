@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my first git repocity
+this is my first git repositary
 author - ankitllodhi
